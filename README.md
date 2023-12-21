@@ -67,7 +67,7 @@
 <hr>
 <div flex="flex-box">
 <img alt="INGLES" src="https://img.shields.io/badge/INGLES-green"/>
-<img alt="Espanhol" src="https://img.shields.io/badge/ESPANHOL-green"/>
+**<img alt="Espanhol" src="https://img.shields.io/badge/ESPANHOL-green"/>**
 <img alt="VENDAS" src="https://img.shields.io/badge/VENDAS-green"/>
 </div>
 
