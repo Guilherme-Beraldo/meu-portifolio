@@ -13,3 +13,7 @@
 <h4>Tecnologias utilizadas: (HTML/CSS/JAVASCRIPT)</h4>
 
 **[Veja Online! - Clique aqui](https://guilherme-beraldo.github.io/yu-gi-oh-joken/)**
+
+<h3><i>Piano Simulator</i></h3>
+
+**[Veja Online! - Clique aqui](https://guilherme-beraldo.github.io/yu-gi-oh-joken/)**
