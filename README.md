@@ -57,7 +57,7 @@
 <h2><i>2: Meus Conhecimentos Principais</i></h2>
 
 <div flex="flex-box">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  height="80px" width="80px" style=(margin-left=100px)/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  height="80px" width="80px" style="margin-left=100px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="80px" width="80px" margin-left="10px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="80px" width="80px" margin-left="10px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="80px" width="80px" margin-left="10px"/> 
