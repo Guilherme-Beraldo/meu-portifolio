@@ -12,7 +12,7 @@
 ![image](https://github.com/Guilherme-Beraldo/teste-port/assets/119258473/55587277-94c3-4d4e-9c13-2601ee256cb5)
 <h4>:computer: Tecnologias utilizadas: (HTML/CSS/JAVASCRIPT)</h4>
 
-**[Veja Online! - Clique aqui](https://guilherme-beraldo.github.io/yu-gi-oh-joken/)**
+:computer_mouse: **[Veja Online! - Clique aqui](https://guilherme-beraldo.github.io/yu-gi-oh-joken/)**
 
 <br>
 
@@ -21,4 +21,4 @@
 ![image](https://github.com/Guilherme-Beraldo/teste-port/assets/119258473/209efe06-1091-498b-914c-615fe2bd8d87)
 <h4>:computer: Tecnologias utilizadas: (HTML/CSS/JAVASCRIPT)</h4>
 
-**[Veja Online! - Clique aqui](https://guilherme-beraldo.github.io/PianoSimulator/)**
+:computer_mouse: **[Veja Online! - Clique aqui](https://guilherme-beraldo.github.io/PianoSimulator/)**
