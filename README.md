@@ -2,10 +2,11 @@
 <h2>:compass: <i> Sumário</i></h2>
 
 1.  **[Meus Projetos de estudo](#1-meus-projetos-de-estudo)**
-2.  Meus Contatos
-3.  **[Sobre mim](#3-sobre-mim)**
-4.  Minhas experiencias de trabalho
-5.  Notas
+2.  **[Meus Conhecimentos principais](#2-meus-conhecimentos-principais)**
+3.  Meus Contatos
+4.  **[Sobre mim](#4-sobre-mim)**
+5.  Minhas experiencias de trabalho
+
 
 <h2><i>1: Meus Projetos de estudo</i></h2>
 <h3><i>Yu-Gi-Oh Joken!</i></h3>
@@ -53,7 +54,9 @@
 
 <br>
 
-<h2><i>3: Sobre Mim</i></h2>
+<h2><i>2: Meus Conhecimentos Principais</i></h2>
+
+<h2><i>4: Sobre Mim</i></h2>
 <h3>:headphones: Spotify status</h3>
 <a href="https://open.spotify.com/intl-pt/track/2LEF1A8DOZ9wRYikWgVlZ8">
   <img src="https://i.scdn.co/image/ab67616d00001e02871d85943145dde548f4ae09" alt="Tocando Agora">
