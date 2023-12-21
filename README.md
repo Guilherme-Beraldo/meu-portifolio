@@ -59,9 +59,7 @@
 <h4>:computer: Tecnologias utilizadas: (HTML/CSS)</h4>
 
 :computer_mouse: **[Veja Online! - Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/)**
-
-<br>
-
+<br> <br>
 :point_up_2: [Volte Ao Topo](#man_technologist--guilherme-de-lima-beraldo---desenvolvedor-web)
 
 <h2><i>2: Meus Conhecimentos Principais</i></h2>
