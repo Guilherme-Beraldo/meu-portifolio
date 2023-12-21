@@ -36,4 +36,9 @@
 
 <h3><i>Jogo da Memória</i></h3>
 
+![image](https://github.com/Guilherme-Beraldo/teste-port/assets/119258473/b5cbae5c-127f-40ea-93ff-1685a97f25ef)
+<h4>:computer: Tecnologias utilizadas: (HTML/CSS/JAVASCRIPT)</h4>
+
 :computer_mouse: **[Veja Online! - Clique aqui](https://guilherme-beraldo.github.io/jogoDaMemoria/)**
+
+<br>
