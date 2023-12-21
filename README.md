@@ -31,3 +31,9 @@
 <h4>:computer: Tecnologias utilizadas: (HTML/CSS/JAVASCRIPT)</h4>
 
 :computer_mouse: **[Veja Online! - Clique aqui](https://guilherme-beraldo.github.io/detonaRalph/)**
+
+<br>
+
+<h3><i>Jogo da Memória</i></h3>
+
+:computer_mouse: **[Veja Online! - Clique aqui](https://guilherme-beraldo.github.io/jogoDaMemoria/)**
