@@ -56,9 +56,9 @@
 
 <h2><i>2: Meus Conhecimentos Principais</i></h2>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" font-size: "10px" />
           
 
 <h2><i>4: Sobre Mim</i></h2>
