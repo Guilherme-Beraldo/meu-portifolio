@@ -42,6 +42,7 @@
 <h4>:computer: Tecnologias utilizadas: (HTML/CSS/JAVASCRIPT)</h4>
 
 :computer_mouse: **[Veja Online! - Clique aqui](https://guilherme-beraldo.github.io/jogoDaMemoria/)**
+<br>
 :point_up_2: [Volte Ao Topo](#man_technologist--guilherme-de-lima-beraldo---desenvolvedor-web)
 
 <br>
