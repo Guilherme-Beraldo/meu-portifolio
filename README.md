@@ -7,7 +7,7 @@
 -   Minhas experiencias de trabalho
  
 <h2>1: Meus Projetos</h2>
-<h3>Yu-Gi-Oh Joken! (HTML/CSS/JAVASCRIPT)</h3> 
+<h3>Yu-Gi-Oh Joken! <h4>(HTML/CSS/JAVASCRIPT)</h4></h3> 
 
 [Veja Online! - Clique aqui](https://guilherme-beraldo.github.io/yu-gi-oh-joken/)
 
