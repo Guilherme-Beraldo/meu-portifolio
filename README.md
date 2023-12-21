@@ -1,11 +1,11 @@
 <h1> Guilherme de Lima Beraldo </h1>
 <h2>Sumário</h2>
-<ol>
+
   [Meus Projetos](#1-meus-projetos)
   <li><h4>Meus Contatos</h4></li>
   <li><h4>Sobre mim</h4></li>
   <li><h4>Minhas experiencias de trabalho</h4></li>
-</ol>
+
 
 <h2>1: Meus Projetos</h2>
 <h3>Yu-Gi-Oh Joken!</h3>
