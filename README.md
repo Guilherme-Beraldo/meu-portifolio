@@ -9,4 +9,4 @@
 <h2>1: Meus Projetos</h2>
 <h3>Yu-Gi-Oh Joken!</h3>
 
-vamos tentar de novo: [ser](https://guilherme-beraldo.github.io/yu-gi-oh-joken/)
+[Veja Online! Clique aqui](https://guilherme-beraldo.github.io/yu-gi-oh-joken/)
