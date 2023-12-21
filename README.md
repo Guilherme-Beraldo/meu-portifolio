@@ -62,7 +62,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="80px" width="80px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="80px" width="80px"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="80px" width="80px"/>        
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="80px" width="80px"/>        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="80px" width="80px"/> 
+<img alt="Ingles" src="https://img.shields.io/badge/Ingles-orange"/>
 </div>  
 
 <h2><i>4: Sobre Mim</i></h2>
