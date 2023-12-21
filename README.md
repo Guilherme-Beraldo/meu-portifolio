@@ -51,3 +51,7 @@
 
 :computer_mouse: **[Veja Online! - Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/)**
 
+<br>
+
+<h2>🎵 <i></i>Spotify status</i> </h2>
+
