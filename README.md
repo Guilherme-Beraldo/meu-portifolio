@@ -58,6 +58,9 @@
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26)
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+          
+
 <h2><i>4: Sobre Mim</i></h2>
 <h3>:headphones: Spotify status</h3>
 <a href="https://open.spotify.com/intl-pt/track/2LEF1A8DOZ9wRYikWgVlZ8">
