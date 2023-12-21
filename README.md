@@ -65,7 +65,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="80px" width="80px"/> 
 </div> 
 <div flex="flex-box">
-<img alt="INGLES" src="https://img.shields.io/badge/Ingles-orange"/>
+<img alt="INGLES" src="https://img.shields.io/badge/INGLES-green"/>
+<img alt="Espanhol" src="https://img.shields.io/badge/ESPANHOL-green"/>
 </div>
 
 <h2><i>4: Sobre Mim</i></h2>
