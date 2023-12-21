@@ -18,7 +18,7 @@
 
 <h3><i>Piano Simulator</i></h3>
 
-
+![image](https://github.com/Guilherme-Beraldo/teste-port/assets/119258473/942d00b8-08dc-4b42-9dd1-f8334eabe73f)
 <h4>:computer: Tecnologias utilizadas: (HTML/CSS/JAVASCRIPT)</h4>
 
 :computer_mouse: **[Veja Online! - Clique aqui](https://guilherme-beraldo.github.io/PianoSimulator/)**
