@@ -53,5 +53,6 @@
 
 <br>
 
-<h2>🎵 <i></i>Spotify status</i> </h2>
+<h2>3: Sobre Mim</h2>
+<h3>🎵 <i>Spotify status</i> </h3>
 
