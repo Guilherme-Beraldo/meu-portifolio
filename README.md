@@ -18,7 +18,7 @@
 
 <h3><i>Piano Simulator</i></h3>
 
-![image](https://github.com/Guilherme-Beraldo/teste-port/assets/119258473/32ea0561-660e-4e12-ae83-b4bd35562bb9)
+
 <h4>:computer: Tecnologias utilizadas: (HTML/CSS/JAVASCRIPT)</h4>
 
 :computer_mouse: **[Veja Online! - Clique aqui](https://guilherme-beraldo.github.io/PianoSimulator/)**
@@ -45,7 +45,7 @@
 
 <h3><i>Landing Page - Trilha CSS DIO</i></h3>
 
-![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
+![image](https://github.com/Guilherme-Beraldo/teste-port/assets/119258473/32ea0561-660e-4e12-ae83-b4bd35562bb9)
 <h4>:computer: Tecnologias utilizadas: (HTML/CSS)</h4>
 
 :computer_mouse: **[Veja Online! - Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/)**
