@@ -1,5 +1,5 @@
 <h1>:man_technologist: <i> Guilherme de Lima Beraldo - Desenvolvedor Web</i></h1>
-<h2><i>Sumário</i></h2>
+<h2>:compass:<i>Sumário</i></h2>
 
 1.  **[Meus Projetos de estudo](#1-meus-projetos-de-estudo)**
 2.  Meus Contatos
