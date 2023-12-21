@@ -1,4 +1,4 @@
-<h1>Guilherme de Lima Beraldo!</h1>
+<h1>Guilherme de Lima Beraldo! - Desenvolvedor Web</h1>
 <h2>Sumário</h2>
 
 - **[Meus Projetos de estudo](#1-meus-projetos-de-estudo)**
