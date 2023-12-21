@@ -57,8 +57,8 @@
 <h2><i>2: Meus Conhecimentos Principais</i></h2>
 
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="100px" width="100px" />
+HTML5
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80px" width="80px" />
           
 
 <h2><i>4: Sobre Mim</i></h2>
