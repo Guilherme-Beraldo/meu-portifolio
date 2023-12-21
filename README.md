@@ -55,4 +55,6 @@
 
 <h2><i>3: Sobre Mim</i></h2>
 <h3>🎵 Spotify status</h3>
-
+<a href="https://open.spotify.com/intl-pt/track/2LEF1A8DOZ9wRYikWgVlZ8">
+  <img src="https://i.scdn.co/image/ab67616d00001e02871d85943145dde548f4ae09" alt="Tocando Agora">
+</a>
