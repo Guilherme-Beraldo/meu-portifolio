@@ -1,4 +1,4 @@
-<h1>:man_technologist: <i> Guilherme de Lima Beraldo - Desenvolvedor Web</i></h1>
+<h1>:man_technologist: <i> Guilherme Beraldo - Desenvolvedor Web</i></h1>
 <h2>:compass: <i> Sumário</i></h2>
 
 1.  **[Meus Projetos de estudo](#1-meus-projetos-de-estudo)**
@@ -85,6 +85,9 @@
 :point_up_2: [Volte Ao Topo](#man_technologist--guilherme-de-lima-beraldo---desenvolvedor-web)
 
 <h2><i>4: Sobre Mim</i></h2>
+
+<p>Olá! Meu nome é Guilherme de Lima Beraldo, atualmente tenho 25 anos, resido em Regente Feijó/Presidente Prudente SP, e sou apaixonado por tecnologia, e estou em busca de uma oportunidade no mercado de trabalho, entre em contato comigo a partir dos links abaixo, obrigado</p>
+
 <h3>:headphones: Spotify status</h3>
 <a href="https://open.spotify.com/intl-pt/track/2LEF1A8DOZ9wRYikWgVlZ8">
   <img src="https://i.scdn.co/image/ab67616d00001e02871d85943145dde548f4ae09" alt="Tocando Agora">
