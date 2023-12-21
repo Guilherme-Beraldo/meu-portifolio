@@ -8,4 +8,4 @@
 
 <h2>1: Meus Projetos</h2>
 <h3>Yu-Gi-Oh Joken!</h3>
-[VEJA ONLINE](https://guilherme-beraldo.github.io/yu-gi-oh-joken/)
+sss[VEJA ONLINE](https://guilherme-beraldo.github.io/yu-gi-oh-joken/).
