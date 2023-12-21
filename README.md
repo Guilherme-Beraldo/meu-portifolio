@@ -6,7 +6,7 @@
 -   Sobre mim
 -   Minhas experiencias de trabalho
  
-<h2>1: Meus Projetos de estudo</h2>
+<h2><i>1: Meus Projetos de estudo</i></h2>
 <h3>Yu-Gi-Oh Joken!</h3>
 
 ![image](https://github.com/Guilherme-Beraldo/teste-port/assets/119258473/55587277-94c3-4d4e-9c13-2601ee256cb5)
