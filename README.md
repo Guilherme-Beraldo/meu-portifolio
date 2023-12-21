@@ -16,7 +16,7 @@
 
 :computer_mouse: **[Veja Online! - Clique aqui](https://guilherme-beraldo.github.io/yu-gi-oh-joken/)**
 <br> <br>
-:point_up_2: [Volte Ao Topo](#man_technologist--guilherme-de-lima-beraldo---desenvolvedor-web)
+:point_up_2: [Volte Ao Topo](#man_technologist--guilherme-beraldo---desenvolvedor-web)
 
 <br>
 
@@ -27,7 +27,7 @@
 
 :computer_mouse: **[Veja Online! - Clique aqui](https://guilherme-beraldo.github.io/PianoSimulator/)**
 <br> <br>
-:point_up_2: [Volte Ao Topo](#man_technologist--guilherme-de-lima-beraldo---desenvolvedor-web)
+:point_up_2: [Volte Ao Topo](#man_technologist--guilherme-beraldo---desenvolvedor-web)
 
 <br>
 
@@ -38,7 +38,7 @@
 
 :computer_mouse: **[Veja Online! - Clique aqui](https://guilherme-beraldo.github.io/detonaRalph/)**
 <br> <br>
-:point_up_2: [Volte Ao Topo](#man_technologist--guilherme-de-lima-beraldo---desenvolvedor-web)
+:point_up_2: [Volte Ao Topo](#man_technologist--guilherme-beraldo---desenvolvedor-web)
 
 <br>
 
@@ -60,7 +60,7 @@
 
 :computer_mouse: **[Veja Online! - Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/)**
 <br> <br>
-:point_up_2: [Volte Ao Topo](#man_technologist--guilherme-de-lima-beraldo---desenvolvedor-web)
+:point_up_2: [Volte Ao Topo](#man_technologist--guilherme-beraldo---desenvolvedor-web)
 
 <h2><i>2: Meus Conhecimentos Principais</i></h2>
 
@@ -82,7 +82,7 @@
 
 <br>
 
-:point_up_2: [Volte Ao Topo](#man_technologist--guilherme-de-lima-beraldo---desenvolvedor-web)
+:point_up_2: [Volte Ao Topo](#man_technologist--guilherme-beraldo---desenvolvedor-web)
 
 <h2><i>4: Sobre Mim</i></h2>
 
@@ -95,4 +95,4 @@
 
 <br>
 
-:point_up_2: [Volte Ao Topo](#man_technologist--guilherme-de-lima-beraldo---desenvolvedor-web)
+:point_up_2: [Volte Ao Topo](#man_technologist--guilherme-beraldo---desenvolvedor-web)
