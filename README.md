@@ -1,4 +1,4 @@
-<h1><i>	:man_technologist: Guilherme de Lima Beraldo - Desenvolvedor Web</i></h1>
+<h1>:man_technologist: <i> Guilherme de Lima Beraldo - Desenvolvedor Web</i></h1>
 <h2><i>Sumário</i></h2>
 
 1.  **[Meus Projetos de estudo](#1-meus-projetos-de-estudo)**
