@@ -14,10 +14,11 @@
 
 **[Veja Online! - Clique aqui](https://guilherme-beraldo.github.io/yu-gi-oh-joken/)**
 
-
+<br>
 
 <h3><i>Piano Simulator</i></h3>
 
 ![image](https://github.com/Guilherme-Beraldo/teste-port/assets/119258473/209efe06-1091-498b-914c-615fe2bd8d87)
+<h4>Tecnologias utilizadas: (HTML/CSS/JAVASCRIPT)</h4>
 
 **[Veja Online! - Clique aqui](https://guilherme-beraldo.github.io/PianoSimulator/)**
