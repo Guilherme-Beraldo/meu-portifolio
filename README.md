@@ -78,4 +78,4 @@
   <img src="https://i.scdn.co/image/ab67616d00001e02871d85943145dde548f4ae09" alt="Tocando Agora">
 </a>
 
-[Volte Ao Topo](#man_technologist--guilherme-de-lima-beraldo---desenvolvedor-web)
+[:point_up_2: Volte Ao Topo](#man_technologist--guilherme-de-lima-beraldo---desenvolvedor-web)
