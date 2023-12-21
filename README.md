@@ -1,5 +1,5 @@
 <h1><i>Guilherme de Lima Beraldo - Desenvolvedor Web</i></h1>
-<h2>Sumário</h2>
+<h2><i>Sumário</i></h2>
 
 - **[Meus Projetos de estudo](#1-meus-projetos-de-estudo)**
 -   Meus Contatos
