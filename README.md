@@ -56,7 +56,7 @@
 
 <h2><i>2: Meus Conhecimentos Principais</i></h2>
 
-![HTML](https://img.shields.io/badge/any_text-you_like-blue)
+![HTML](https://img.shields.io/badge/HTML-you_like-lightblue)
 
 <h2><i>4: Sobre Mim</i></h2>
 <h3>:headphones: Spotify status</h3>
