@@ -17,4 +17,4 @@
 
 <h3><i>Piano Simulator</i></h3>
 
-**[Veja Online! - Clique aqui](https://guilherme-beraldo.github.io/Piano-Simulator/)**
+**[Veja Online! - Clique aqui](https://guilherme-beraldo.github.io/PianoSimulator/)**
