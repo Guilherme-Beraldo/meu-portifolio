@@ -58,7 +58,7 @@
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" font-size = "10px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="10px" width="10px" />
           
 
 <h2><i>4: Sobre Mim</i></h2>
