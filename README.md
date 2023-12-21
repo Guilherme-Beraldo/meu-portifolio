@@ -5,6 +5,7 @@
 2.  Meus Contatos
 3.  Sobre mim
 4.  Minhas experiencias de trabalho
+5.  Notas
 
 <h2><i>1: Meus Projetos de estudo</i></h2>
 <h3><i>Yu-Gi-Oh Joken!</i></h3>
