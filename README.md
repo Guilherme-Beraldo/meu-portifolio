@@ -55,10 +55,15 @@
 <br>
 
 <h2><i>2: Meus Conhecimentos Principais</i></h2>
+
 <div flex="flex-box">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  height="80px" width="80px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="80px" width="80px"/>
-</div>                 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="80px" width="80px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="80px" width="80px"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="80px" width="80px"/>        
+</div>  
+
 <h2><i>4: Sobre Mim</i></h2>
 <h3>:headphones: Spotify status</h3>
 <a href="https://open.spotify.com/intl-pt/track/2LEF1A8DOZ9wRYikWgVlZ8">
