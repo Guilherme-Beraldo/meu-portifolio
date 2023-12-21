@@ -53,6 +53,6 @@
 
 <br>
 
-<h2>3: Sobre Mim</h2>
-<h3>🎵 <i>Spotify status</i> </h3>
+<h2><i>3: Sobre Mim</i></h2>
+<h3>🎵 Spotify status</h3>
 
