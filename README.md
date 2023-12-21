@@ -86,9 +86,9 @@
 
 <h2><i>4: Sobre Mim</i></h2>
 
-<p>Olá! Meu nome é Guilherme de Lima Beraldo, atualmente tenho 25 anos, resido em Regente Feijó/Presidente Prudente SP, e sou apaixonado por tecnologia, e estou em busca de uma oportunidade no mercado de trabalho, entre em contato comigo a partir dos links abaixo, obrigado</p>
+<p>Olá! Meu nome é Guilherme de Lima Beraldo, atualmente tenho 25 anos, resido em Regente Feijó/Presidente Prudente SP, e sou apaixonado por tecnologia, e estou em busca de uma oportunidade no mercado de trabalho, entre em contato comigo a partir dos links abaixo, obrigado.</p>
 
-<h3>:headphones: Spotify status</h3>
+<h4>:headphones: Spotify status</h4>
 <a href="https://open.spotify.com/intl-pt/track/2LEF1A8DOZ9wRYikWgVlZ8">
   <img src="https://i.scdn.co/image/ab67616d00001e02871d85943145dde548f4ae09" alt="Tocando Agora">
 </a>
