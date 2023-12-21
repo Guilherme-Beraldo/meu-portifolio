@@ -1,7 +1,7 @@
 <h1> Guilherme de Lima Beraldo </h1>
 <h2>Sumário</h2>
 <ol>
-  <li><h4>[Meus Projetos](#1-meus-projetos)</h4></li>
+  <li>[Meus Projetos](#1-meus-projetos)</li>
   <li><h4>Meus Contatos</h4></li>
   <li><h4>Sobre mim</h4></li>
   <li><h4>Minhas experiencias de trabalho</h4></li>
