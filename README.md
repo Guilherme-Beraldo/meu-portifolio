@@ -3,7 +3,7 @@
 
 1.  **[Meus Projetos de estudo](#1-meus-projetos-de-estudo)**
 2.  **[Meus Conhecimentos principais](#2-meus-conhecimentos-principais)**
-3.  Meus Contatos
+3.  **[Meus Contatos](#-meus-contatos)**
 4.  **[Sobre mim](#4-sobre-mim)**
 5.  Minhas experiencias de trabalho
 
@@ -84,9 +84,15 @@
 
 :point_up_2: [Volte Ao Topo](#man_technologist--guilherme-beraldo---desenvolvedor-web)
 
+<h2><i>3: Meus Contatos</i></h2>
+
+https://www.linkedin.com/in/gui-beraldo/
+
+:point_up_2: [Volte Ao Topo](#man_technologist--guilherme-beraldo---desenvolvedor-web)
+
 <h2><i>4: Sobre Mim</i></h2>
 
-<p>Olá! Meu nome é Guilherme de Lima Beraldo, atualmente tenho 25 anos, resido em Regente Feijó/Presidente Prudente SP, sou apaixonado por tecnologia, sou uma pessoa carismática e simpática devido principalmente aos meus anos de trabalho como vendedor, sempre estou disposto a resolver problemas e estou em busca de uma oportunidade no mercado de trabalho, entre em contato comigo a partir dos links abaixo, obrigado.</p>
+<p>Olá! Meu nome é Guilherme de Lima Beraldo, atualmente tenho 25 anos, resido em Regente Feijó/Presidente Prudente SP, sou apaixonado por tecnologia, sou uma pessoa carismática e simpática devido principalmente aos meus anos de trabalho como vendedor, sempre estou disposto a resolver problemas e estou em busca de uma oportunidade para mostrar meus conhecimentos.</p>
 
 <h4>:headphones: Spotify status</h4>
 <a href="https://open.spotify.com/intl-pt/track/2LEF1A8DOZ9wRYikWgVlZ8">
