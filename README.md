@@ -3,7 +3,7 @@
 
 1.  **[Meus Projetos de estudo](#1-meus-projetos-de-estudo)**
 2.  **[Meus Conhecimentos principais](#2-meus-conhecimentos-principais)**
-3.  **[Meus Contatos](#-meus-contatos)**
+3.  **[Meus Contatos](#3-meus-contatos)**
 4.  **[Sobre mim](#4-sobre-mim)**
 5.  Minhas experiencias de trabalho
 
