@@ -5,7 +5,7 @@
 2.  **[Meus Conhecimentos principais](#2-meus-conhecimentos-principais)**
 3.  **[Meus Contatos](#3-meus-contatos)**
 4.  **[Sobre mim](#4-sobre-mim)**
-5.  Minhas experiencias de trabalho
+5.  **[Minhas experiencias de trabalho](#5-minhas-experiencias-de-trabalho)**
 
 
 <h2><i>1: Meus Projetos de estudo</i></h2>
@@ -106,24 +106,36 @@ https://www.linkedin.com/in/gui-beraldo/
 <h2><i>5: Minhas experiencias de trabalho</i></h2>
 
 <h3>4 - Vendedor</h3> 
+
 Casarao - Materiais De Construcao Regente Feijo · Tempo integral
+
 set de 2019 - set de 2023 · 4 anos
+
 Regente Feijó, São Paulo, Brazil · Presencial
+
 Atendimento direto com cliente, conferencia de mercadorias, suporte ao cliente, metas de venda.
 
 <h3>3 - Assistente de ensino</h3>
 Fatec Presidente Prudente · Estágio
+
 fev de 2019 - ago de 2019 · 7 meses
+
 Presidente Prudente, São Paulo, Brazil
+
 Auxiliei em aulas de Excel, Word, e Powerpoint, presencialmente para turmas jovens e idosas, do inicio ao intermediario/avançado. Estágio de 6 meses, com 3 turmas atendidas ao total. 
 
-<h3>2 - Atendente de lojas e mercadorias</h3>
+<h3>2 - Auxiliar de escritorio em geral</h3>
+
 AC RUIZ LTDA · Tempo integral
+
 mai de 2018 - jan de 2019 · 9 meses
+
 Presidente Prudente, São Paulo, Brasil · Presencial
+
 Entrada e organização de notas fiscais, suporte a computadores e impressoras, serviços de escritorio no geral.
 
 <h3>1 - Auxiliar de escritorio em geral</h3>
+
 Solistica · Aprendiz Solistica  
 
 mar de 2017 - abr de 2018 · 1 ano 2 meses  
