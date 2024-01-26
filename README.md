@@ -105,7 +105,7 @@ https://www.linkedin.com/in/gui-beraldo/
 
 <h2><i>5: Minhas experiencias de trabalho</i></h2>
 
-4 - Vendedor
+<h3>4 - Vendedor</h3> /n
 Casarao - Materiais De Construcao Regente Feijo · Tempo integral
 set de 2019 - set de 2023 · 4 anos
 Regente Feijó, São Paulo, Brazil · Presencial
