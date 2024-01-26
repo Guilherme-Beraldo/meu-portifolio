@@ -102,3 +102,29 @@ https://www.linkedin.com/in/gui-beraldo/
 <br>
 
 :point_up_2: [Volte Ao Topo](#man_technologist--guilherme-beraldo---desenvolvedor-web)
+
+<h2><i>5: Minhas experiencias de trabalho</i></h2>
+
+4 - Vendedor
+Casarao - Materiais De Construcao Regente Feijo · Tempo integral
+set de 2019 - set de 2023 · 4 anos
+Regente Feijó, São Paulo, Brazil · Presencial
+Atendimento direto com cliente, conferencia de mercadorias, suporte ao cliente, metas de venda.
+
+3 - Assistente de ensino
+Fatec Presidente Prudente · Estágio
+fev de 2019 - ago de 2019 · 7 meses
+Presidente Prudente, São Paulo, Brazil
+Auxiliei em aulas de Excel, Word, e Powerpoint, presencialmente para turmas jovens e idosas, do inicio ao intermediario/avançado. Estágio de 6 meses, com 3 turmas atendidas ao total. 
+
+2 - Atendente de lojas e mercadorias
+AC RUIZ LTDA · Tempo integral
+mai de 2018 - jan de 2019 · 9 meses
+Presidente Prudente, São Paulo, Brasil · Presencial
+Entrada e organização de notas fiscais, suporte a computadores e impressoras, serviços de escritorio no geral.
+
+1 - Auxiliar de escritorio em geral
+Solistica · Aprendiz Solistica
+mar de 2017 - abr de 2018 · 1 ano 2 meses
+Presidente Prudente, São Paulo, Brasil · Presencial
+Contagem e organizacao de controle de entregas, telefonemas, e trabalho de escritorio no geral.
