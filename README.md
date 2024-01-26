@@ -88,7 +88,8 @@
 
 [![Linkedin: gui-beraldo](https://img.shields.io/badge/-GuilhermeBeraldo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/gui-beraldo/)
 <br> <br>
-**Telefone: 18 99686-1554**
+**Telefone: 18 99686-1554** <br> <br>
+**E-mail: gui_beraldo@hotmail.com**
 
 
 :point_up_2: [Volte Ao Topo](#man_technologist--guilherme-beraldo---desenvolvedor-web)
