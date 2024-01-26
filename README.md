@@ -111,7 +111,7 @@ set de 2019 - set de 2023 · 4 anos
 Regente Feijó, São Paulo, Brazil · Presencial
 Atendimento direto com cliente, conferencia de mercadorias, suporte ao cliente, metas de venda.
 
-<h3>- Assistente de ensino</h3>
+<h3>3 - Assistente de ensino</h3>
 Fatec Presidente Prudente · Estágio
 fev de 2019 - ago de 2019 · 7 meses
 Presidente Prudente, São Paulo, Brazil
@@ -124,7 +124,10 @@ Presidente Prudente, São Paulo, Brasil · Presencial
 Entrada e organização de notas fiscais, suporte a computadores e impressoras, serviços de escritorio no geral.
 
 <h3>1 - Auxiliar de escritorio em geral</h3>
-Solistica · Aprendiz Solistica
-mar de 2017 - abr de 2018 · 1 ano 2 meses
-Presidente Prudente, São Paulo, Brasil · Presencial
+Solistica · Aprendiz Solistica  
+
+mar de 2017 - abr de 2018 · 1 ano 2 meses  
+
+Presidente Prudente, São Paulo, Brasil · Presencial  
+
 Contagem e organizacao de controle de entregas, telefonemas, e trabalho de escritorio no geral.
