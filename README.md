@@ -143,3 +143,5 @@ mar de 2017 - abr de 2018 · 1 ano 2 meses
 Presidente Prudente, São Paulo, Brasil · Presencial  
 
 Contagem e organizacao de controle de entregas, telefonemas, e trabalho de escritorio no geral.
+
+:point_up_2: [Volte Ao Topo](#man_technologist--guilherme-beraldo---desenvolvedor-web)
