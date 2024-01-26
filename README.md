@@ -86,7 +86,7 @@
 
 <h2><i>3: Meus Contatos</i></h2>
 
-[![Linkedin: gui-beraldo](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/gui-beraldo/)
+[![Linkedin: gui-beraldo](https://img.shields.io/badge/-gui-beraldo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/gui-beraldo/)
 
 
 :point_up_2: [Volte Ao Topo](#man_technologist--guilherme-beraldo---desenvolvedor-web)
