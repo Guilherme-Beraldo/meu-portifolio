@@ -62,6 +62,16 @@
 <br> <br>
 :point_up_2: [Volte Ao Topo](#man_technologist--guilherme-beraldo---desenvolvedor-web)
 
+<h3><i>Decodificador de textos - Alura + Oracle</i></h3>
+
+![image]()
+<h4>:computer: Tecnologias utilizadas: (HTML/CSS/JAVASCRIPT/TRELLO/FIGMA)</h4>
+
+:computer_mouse: **[Veja Online! - Clique aqui](https://guilherme-beraldo.github.io/Decodificador/)**
+<br> <br>
+:point_up_2: [Volte Ao Topo](#man_technologist--guilherme-beraldo---desenvolvedor-web)
+
+
 <h2><i>2: Meus Conhecimentos Principais</i></h2>
 
 <div flex="flex-box">
