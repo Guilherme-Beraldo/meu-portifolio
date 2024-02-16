@@ -64,7 +64,7 @@
 
 <h3><i>Decodificador de textos - Alura + Oracle</i></h3>
 
-![image]()
+![image](https://github.com/Guilherme-Beraldo/meu-portifolio/assets/119258473/738262dd-0191-40d1-b0cf-1493c211e29a)
 <h4>:computer: Tecnologias utilizadas: (HTML/CSS/JAVASCRIPT/TRELLO/FIGMA)</h4>
 
 :computer_mouse: **[Veja Online! - Clique aqui](https://guilherme-beraldo.github.io/Decodificador/)**
